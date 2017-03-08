@@ -28,9 +28,9 @@ var articles={
                        This is my second article. It is the content from my third article. 
                     </p>`},
     'article-three': {
-        title: 'Article Two | Rohit Yadav',
-        heading: 'Article Two',
-        date: 'March 8, 2017',
+        title: 'Article Three | Rohit Yadav',
+        heading: 'Article Three',
+        date: 'March 9, 2017',
         content: `<p>
                        This is my Third article. It is the content from third article.
                     </p>`
